@@ -23,22 +23,22 @@ body {
 
 .watermelon {
   font-family: "Rammetto One", serif;
-  background-color: #e97065
+  background-color: #e97065;
 }
 
 .starfruit {
 
   font-family: "Gravitas One", serif;
-  background-color: #fbd25e
+  background-color: #fbd25e;
 }
 
 .persimmon {
 
-  font-family: "Comfortaa", sans-serif;
+  font-family: Comfortaa, sans-serif;
   background-color: #e86033;
 }
 
 p {
 
-font-family: "Open Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
